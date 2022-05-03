@@ -15,6 +15,9 @@ body {
 }
 .second-block{
     margin: 10% 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .logo-twitter {
     width: 10%;
@@ -67,6 +70,10 @@ button {
 .img-footer {
     width: 100%;
     background-size: cover;
+}
+.twitter-overlay {
+    position: absolute;
+    width: 70%;
 }
 
 
