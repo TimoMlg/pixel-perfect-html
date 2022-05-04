@@ -20,7 +20,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 10%;
 }
 .logo-twitter {
     width: 10%;
@@ -106,6 +105,9 @@ button {
    }
    .second-block {
        margin: 0;
+   }
+   .first-block{
+       margin-bottom: 5%;
    }
 }
 
